@@ -1,5 +1,13 @@
+
 git pusll --rebase
 git merge branch name
 git checkout branchname
 git rebase
+
+
+git comments
+git add
+git commit -m "leble"
+git push
+git pull
 
