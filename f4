@@ -1,0 +1,5 @@
+git pusll --rebase
+git merge branch name
+git checkout branchname
+git rebase
+
